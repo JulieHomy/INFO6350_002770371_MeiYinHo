@@ -1,0 +1,32 @@
+Teamwork Division of Responsibilities
+
+In our project, we divided the responsibilities as follows:
+
+[Ning Wang's Responsibilities]:
+
+Models:
+Created and implemented post_model.dart, defining the data structure and functionality for posts.
+
+Screens:
+Worked on new_post_screen.dart, which handles the UI and functionality for creating new posts.
+Developed take_picture_screen.dart, integrating the camera functionality and managing photo capturing.
+
+Main Configuration:
+Configured firebase_options.dart to set up the Firebase environment for the project.
+
+Application Setup:
+Collaborated on setting up main.dart and ensuring the app's navigation flow between screens.
+
+
+
+[Mei Yin Ho's Responsibilities]:
+
+Screens:
+Developed browse_posts_screen.dart, which displays a list of posts and their details.
+Worked on post_detail_screen.dart, implementing the UI and logic for viewing individual post details.
+
+Widgets:
+Designed and implemented reusable components within the widgets folder to enhance code modularity and maintainability.
+
+Debugging and Testing:
+Focused on testing and debugging issues across different screens to ensure smooth functionality.
